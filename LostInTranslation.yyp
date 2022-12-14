@@ -14,11 +14,13 @@
     {"id":{"name":"spriteMCidle","path":"sprites/spriteMCidle/spriteMCidle.yy",},"order":4,},
     {"id":{"name":"roomCrimeScene","path":"rooms/roomCrimeScene/roomCrimeScene.yy",},"order":1,},
     {"id":{"name":"spriteTextBox","path":"sprites/spriteTextBox/spriteTextBox.yy",},"order":6,},
+    {"id":{"name":"spriteWaterWheel","path":"sprites/spriteWaterWheel/spriteWaterWheel.yy",},"order":12,},
     {"id":{"name":"objectHouse","path":"objects/objectHouse/objectHouse.yy",},"order":7,},
     {"id":{"name":"spriteMarker1","path":"sprites/spriteMarker1/spriteMarker1.yy",},"order":0,},
     {"id":{"name":"objectTextBox","path":"objects/objectTextBox/objectTextBox.yy",},"order":2,},
     {"id":{"name":"objectSakuraTree","path":"objects/objectSakuraTree/objectSakuraTree.yy",},"order":6,},
     {"id":{"name":"spriteHouse","path":"sprites/spriteHouse/spriteHouse.yy",},"order":4,},
+    {"id":{"name":"objectWaterWheel","path":"objects/objectWaterWheel/objectWaterWheel.yy",},"order":11,},
     {"id":{"name":"objectMC","path":"objects/objectMC/objectMC.yy",},"order":1,},
     {"id":{"name":"spriteMCright","path":"sprites/spriteMCright/spriteMCright.yy",},"order":1,},
     {"id":{"name":"spriteShrine","path":"sprites/spriteShrine/spriteShrine.yy",},"order":10,},
@@ -35,9 +37,9 @@
     {"id":{"name":"roomVillage","path":"rooms/roomVillage/roomVillage.yy",},"order":0,},
   ],
   "Options": [
+    {"name":"Windows","path":"options/windows/options_windows.yy",},
     {"name":"operagx","path":"options/operagx/options_operagx.yy",},
     {"name":"Main","path":"options/main/options_main.yy",},
-    {"name":"Windows","path":"options/windows/options_windows.yy",},
   ],
   "defaultScriptType": 0,
   "isEcma": false,
@@ -76,6 +78,6 @@
   ],
   "IncludedFiles": [],
   "MetaData": {
-    "IDEVersion": "2022.11.0.54",
+    "IDEVersion": "2022.11.1.56",
   },
 }
