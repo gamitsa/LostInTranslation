@@ -6,7 +6,7 @@
     "name": "spriteHouse",
     "path": "sprites/spriteHouse/spriteHouse.yy",
   },
-  "solid": false,
+  "solid": true,
   "visible": true,
   "managed": true,
   "spriteMaskId": null,
@@ -28,7 +28,7 @@
   "properties": [],
   "overriddenProperties": [],
   "parent": {
-    "name": "Objects",
-    "path": "folders/Objects.yy",
+    "name": "assets",
+    "path": "folders/Objects/assets.yy",
   },
 }
