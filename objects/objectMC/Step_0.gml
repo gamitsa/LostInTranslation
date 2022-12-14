@@ -23,7 +23,7 @@ if (vx != 0 || vy != 0){
 		dir = 0;
 	}
 	if (vx < 0){
-		sprite_index = spriteMCCleft;
+		sprite_index = spriteMCleft;
 		dir = 2;
 	}
 	if (vy > 0){

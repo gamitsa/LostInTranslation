@@ -6,7 +6,7 @@
     "name": "spriteWaterWheel",
     "path": "sprites/spriteWaterWheel/spriteWaterWheel.yy",
   },
-  "solid": false,
+  "solid": true,
   "visible": true,
   "managed": true,
   "spriteMaskId": null,
