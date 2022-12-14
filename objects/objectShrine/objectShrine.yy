@@ -1,8 +1,11 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "objectTemple",
-  "spriteId": null,
+  "name": "objectShrine",
+  "spriteId": {
+    "name": "spriteShrine",
+    "path": "sprites/spriteShrine/spriteShrine.yy",
+  },
   "solid": false,
   "visible": true,
   "managed": true,

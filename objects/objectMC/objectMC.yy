@@ -2,7 +2,10 @@
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
   "name": "objectMC",
-  "spriteId": null,
+  "spriteId": {
+    "name": "spriteMCdown",
+    "path": "sprites/spriteMCdown/spriteMCdown.yy",
+  },
   "solid": false,
   "visible": true,
   "managed": true,

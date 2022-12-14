@@ -2,7 +2,10 @@
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
   "name": "objectBamboo",
-  "spriteId": null,
+  "spriteId": {
+    "name": "spriteBamboo",
+    "path": "sprites/spriteBamboo/spriteBamboo.yy",
+  },
   "solid": false,
   "visible": true,
   "managed": true,
