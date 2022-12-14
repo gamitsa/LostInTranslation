@@ -11,6 +11,7 @@ vx = ((moveRight - moveLeft) * walkSpeed);
 vy = ((moveDown - moveUp) * walkSpeed);
 
 if (vx == 0 && vy = 00){
+ sprite_index = spriteMCidle;
 }
 	
 if (vx != 0 || vy != 0){ 

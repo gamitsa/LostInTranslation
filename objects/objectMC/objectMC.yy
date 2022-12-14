@@ -3,8 +3,8 @@
   "resourceVersion": "1.0",
   "name": "objectMC",
   "spriteId": {
-    "name": "spriteMCdown",
-    "path": "sprites/spriteMCdown/spriteMCdown.yy",
+    "name": "spriteMCidle",
+    "path": "sprites/spriteMCidle/spriteMCidle.yy",
   },
   "solid": false,
   "visible": true,
