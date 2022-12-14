@@ -2,10 +2,7 @@
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
   "name": "objectNPC",
-  "spriteId": {
-    "name": "spriteClue",
-    "path": "sprites/spriteClue/spriteClue.yy",
-  },
+  "spriteId": null,
   "solid": false,
   "visible": true,
   "managed": true,
