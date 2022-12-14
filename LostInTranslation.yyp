@@ -26,7 +26,7 @@
     {"id":{"name":"spriteSakuraTree","path":"sprites/spriteSakuraTree/spriteSakuraTree.yy",},"order":0,},
     {"id":{"name":"objectTree","path":"objects/objectTree/objectTree.yy",},"order":4,},
     {"id":{"name":"spriteTree","path":"sprites/spriteTree/spriteTree.yy",},"order":1,},
-    {"id":{"name":"sprintMCup","path":"sprites/sprintMCup/sprintMCup.yy",},"order":2,},
+    {"id":{"name":"spriteMCup","path":"sprites/spriteMCup/spriteMCup.yy",},"order":2,},
     {"id":{"name":"objectShrine","path":"objects/objectShrine/objectShrine.yy",},"order":10,},
     {"id":{"name":"spriteMCdown","path":"sprites/spriteMCdown/spriteMCdown.yy",},"order":3,},
     {"id":{"name":"objectBamboo","path":"objects/objectBamboo/objectBamboo.yy",},"order":8,},
