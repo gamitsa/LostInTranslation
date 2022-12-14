@@ -1,10 +1,10 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "objectSakuraTree",
+  "name": "objectGun",
   "spriteId": {
-    "name": "spriteSakuraTree",
-    "path": "sprites/spriteSakuraTree/spriteSakuraTree.yy",
+    "name": "spriteGun",
+    "path": "sprites/spriteGun/spriteGun.yy",
   },
   "solid": false,
   "visible": true,

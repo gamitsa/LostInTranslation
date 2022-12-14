@@ -2,7 +2,10 @@
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
   "name": "objectTree",
-  "spriteId": null,
+  "spriteId": {
+    "name": "spriteTree",
+    "path": "sprites/spriteTree/spriteTree.yy",
+  },
   "solid": false,
   "visible": true,
   "managed": true,

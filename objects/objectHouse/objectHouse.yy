@@ -1,10 +1,10 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "objectSakuraTree",
+  "name": "objectHouse",
   "spriteId": {
-    "name": "spriteSakuraTree",
-    "path": "sprites/spriteSakuraTree/spriteSakuraTree.yy",
+    "name": "spriteHouse",
+    "path": "sprites/spriteHouse/spriteHouse.yy",
   },
   "solid": false,
   "visible": true,
