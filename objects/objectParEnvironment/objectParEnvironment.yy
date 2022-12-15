@@ -1,20 +1,14 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "objectHouse",
-  "spriteId": {
-    "name": "spriteHouse",
-    "path": "sprites/spriteHouse/spriteHouse.yy",
-  },
-  "solid": true,
+  "name": "objectParEnvironment",
+  "spriteId": null,
+  "solid": false,
   "visible": true,
   "managed": true,
   "spriteMaskId": null,
   "persistent": false,
-  "parentObjectId": {
-    "name": "objectParEnvironment",
-    "path": "objects/objectParEnvironment/objectParEnvironment.yy",
-  },
+  "parentObjectId": null,
   "physicsObject": false,
   "physicsSensor": false,
   "physicsShape": 1,
@@ -27,11 +21,13 @@
   "physicsStartAwake": true,
   "physicsKinematic": false,
   "physicsShapePoints": [],
-  "eventList": [],
+  "eventList": [
+    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","isDnD":false,"eventNum":0,"eventType":3,"collisionObjectId":null,},
+  ],
   "properties": [],
   "overriddenProperties": [],
   "parent": {
-    "name": "assets",
-    "path": "folders/Objects/assets.yy",
+    "name": "LostInTranslation",
+    "path": "LostInTranslation.yyp",
   },
 }

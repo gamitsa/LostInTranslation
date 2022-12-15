@@ -20,9 +20,12 @@ if (vx == 0 && vy = 00){
 }
 	
 if (vx != 0 || vy != 0){ 
+	if !collision_point(x+vx, y, objectParEnvironment, true, true){
 	x += vx; 
+	}
+	if !collision_point(x, y+vy, objectParEnvironment, true, true){
 	y += vy;   
-	
+	}
 	if (vx > 0){
 		sprite_index = spriteMCright;
 		dir = 0;
@@ -40,3 +43,5 @@ if (vx != 0 || vy != 0){
 		dir = 1;
 	}
 }
+
+depth = -y;

@@ -29,6 +29,7 @@
     {"id":{"name":"spriteMarker4","path":"sprites/spriteMarker4/spriteMarker4.yy",},"order":2,},
     {"id":{"name":"spriteSakuraTree","path":"sprites/spriteSakuraTree/spriteSakuraTree.yy",},"order":0,},
     {"id":{"name":"spriteMCidle_up","path":"sprites/spriteMCidle_up/spriteMCidle_up.yy",},"order":4,},
+    {"id":{"name":"objectParEnvironment","path":"objects/objectParEnvironment/objectParEnvironment.yy",},"order":15,},
     {"id":{"name":"spriteMCup","path":"sprites/spriteMCup/spriteMCup.yy",},"order":0,},
     {"id":{"name":"spriteTileSet","path":"sprites/spriteTileSet/spriteTileSet.yy",},"order":13,},
     {"id":{"name":"objectTree","path":"objects/objectTree/objectTree.yy",},"order":3,},
