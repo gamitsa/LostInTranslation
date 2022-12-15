@@ -3,8 +3,8 @@
   "resourceVersion": "1.0",
   "name": "objectMC",
   "spriteId": {
-    "name": "spriteMCidle",
-    "path": "sprites/spriteMCidle/spriteMCidle.yy",
+    "name": "spriteMCdown",
+    "path": "sprites/spriteMCdown/spriteMCdown.yy",
   },
   "solid": false,
   "visible": true,
@@ -27,7 +27,6 @@
   "eventList": [
     {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","isDnD":false,"eventNum":0,"eventType":0,"collisionObjectId":null,},
     {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","isDnD":false,"eventNum":0,"eventType":3,"collisionObjectId":null,},
-    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","isDnD":false,"eventNum":0,"eventType":4,"collisionObjectId":{"name":"objectHouse","path":"objects/objectHouse/objectHouse.yy",},},
   ],
   "properties": [],
   "overriddenProperties": [],

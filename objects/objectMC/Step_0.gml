@@ -11,7 +11,12 @@ vx = ((moveRight - moveLeft) * walkSpeed);
 vy = ((moveDown - moveUp) * walkSpeed);
 
 if (vx == 0 && vy = 00){
- sprite_index = spriteMCidle;
+	switch dir{
+ case 0: sprite_index = spriteMCidle_right; break;
+ case 1: sprite_index = spriteMCidle_up; break;
+ case 2: sprite_index = spriteMCidle_left; break;
+ case 3: sprite_index = spriteMCidle_down; break;
+	}
 }
 	
 if (vx != 0 || vy != 0){ 
