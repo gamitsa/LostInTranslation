@@ -1,7 +1,7 @@
 /// @description Insert description here
 // You can write your code in this editor
 
-walkSpeed = 16;
+walkSpeed = 5;
 vx = 0;
 vy = 0;
 dir = 3;
