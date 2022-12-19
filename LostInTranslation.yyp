@@ -36,6 +36,7 @@
     {"id":{"name":"spriteMCdown","path":"sprites/spriteMCdown/spriteMCdown.yy",},"order":1,},
     {"id":{"name":"spriteTree","path":"sprites/spriteTree/spriteTree.yy",},"order":1,},
     {"id":{"name":"objectShrine","path":"objects/objectShrine/objectShrine.yy",},"order":10,},
+    {"id":{"name":"Sprite25","path":"sprites/Sprite25/Sprite25.yy",},"order":15,},
     {"id":{"name":"objectBamboo","path":"objects/objectBamboo/objectBamboo.yy",},"order":1,},
     {"id":{"name":"spriteMarker3","path":"sprites/spriteMarker3/spriteMarker3.yy",},"order":3,},
     {"id":{"name":"spriteMCleft","path":"sprites/spriteMCleft/spriteMCleft.yy",},"order":5,},
