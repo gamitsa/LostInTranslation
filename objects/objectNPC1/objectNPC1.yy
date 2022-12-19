@@ -1,20 +1,17 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "objectSakuraTree",
+  "name": "objectNPC1",
   "spriteId": {
-    "name": "spriteSakuraTree",
-    "path": "sprites/spriteSakuraTree/spriteSakuraTree.yy",
+    "name": "spriteNPC",
+    "path": "sprites/spriteNPC/spriteNPC.yy",
   },
   "solid": false,
   "visible": true,
   "managed": true,
   "spriteMaskId": null,
   "persistent": false,
-  "parentObjectId": {
-    "name": "objectParEnvironment",
-    "path": "objects/objectParEnvironment/objectParEnvironment.yy",
-  },
+  "parentObjectId": null,
   "physicsObject": false,
   "physicsSensor": false,
   "physicsShape": 1,
@@ -31,7 +28,7 @@
   "properties": [],
   "overriddenProperties": [],
   "parent": {
-    "name": "assets",
-    "path": "folders/Objects/assets.yy",
+    "name": "characters",
+    "path": "folders/Objects/characters.yy",
   },
 }
