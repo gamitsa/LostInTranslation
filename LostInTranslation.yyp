@@ -39,6 +39,7 @@
     {"id":{"name":"Sprite25","path":"sprites/Sprite25/Sprite25.yy",},"order":15,},
     {"id":{"name":"objectBamboo","path":"objects/objectBamboo/objectBamboo.yy",},"order":1,},
     {"id":{"name":"spriteMarker3","path":"sprites/spriteMarker3/spriteMarker3.yy",},"order":3,},
+    {"id":{"name":"Sprite24","path":"sprites/Sprite24/Sprite24.yy",},"order":14,},
     {"id":{"name":"spriteMCleft","path":"sprites/spriteMCleft/spriteMCleft.yy",},"order":5,},
     {"id":{"name":"spriteMCidle_right","path":"sprites/spriteMCidle_right/spriteMCidle_right.yy",},"order":7,},
     {"id":{"name":"roomVillage","path":"rooms/roomVillage/roomVillage.yy",},"order":0,},
