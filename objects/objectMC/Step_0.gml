@@ -2,10 +2,18 @@
 
 //checking keys for movement 
 
-moveRight = keyboard_check(vk_right);
-moveLeft = keyboard_check(vk_left);
-moveUp = keyboard_check(vk_up);
-moveDown = keyboard_check(vk_down);
+if (global.playerControl == true) {
+	moveRight = keyboard_check(vk_right);
+	moveLeft = keyboard_check(vk_left);
+	moveUp = keyboard_check(vk_up);
+	moveDown = keyboard_check(vk_down);
+}
+if (global.playerControl == false) {
+	moveRight = 0;
+	moveLeft = 0;
+	moveUp = 0;
+	moveDown = 0;
+}
 
 vx = ((moveRight - moveLeft) * walkSpeed);
 vy = ((moveDown - moveUp) * walkSpeed);
@@ -20,10 +28,10 @@ if (vx == 0 && vy = 00){
 }
 	
 if (vx != 0 || vy != 0){ 
-	if !collision_point(x+vx, y, objectParEnvironment, true, true){
+	if (!collision_point(x+vx, y, objectParEnvironment, true, true) && !collision_point(x+vx, y, objectParNPC, true, true)) {
 	x += vx; 
 	}
-	if !collision_point(x, y+vy, objectParEnvironment, true, true){
+	if (!collision_point(x, y+vy, objectParEnvironment, true, true) && !collision_point(x, y+vy, objectParNPC, true, true)){
 	y += vy;   
 	}
 	if (vx > 0){
@@ -44,4 +52,9 @@ if (vx != 0 || vy != 0){
 	}
 }
 
+//collision with NPC
+
+nearbyNPC = collision_rectangle(x-lookRange,y-lookRange,x+lookRange,y+lookRange,objectParNPC,false,true);
+
+	
 depth = -y;
