@@ -19,6 +19,7 @@
     {"id":{"name":"objectHouse","path":"objects/objectHouse/objectHouse.yy",},"order":0,},
     {"id":{"name":"spriteMarker1","path":"sprites/spriteMarker1/spriteMarker1.yy",},"order":0,},
     {"id":{"name":"objectTextBox","path":"objects/objectTextBox/objectTextBox.yy",},"order":2,},
+    {"id":{"name":"objectParNPC","path":"objects/objectParNPC/objectParNPC.yy",},"order":16,},
     {"id":{"name":"objectSakuraTree","path":"objects/objectSakuraTree/objectSakuraTree.yy",},"order":2,},
     {"id":{"name":"spriteHouse","path":"sprites/spriteHouse/spriteHouse.yy",},"order":4,},
     {"id":{"name":"spriteMCright","path":"sprites/spriteMCright/spriteMCright.yy",},"order":2,},
