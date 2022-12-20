@@ -2,7 +2,7 @@
 
 //checking keys for movement 
 
-if (global.playerControl == true) {
+/*if (global.playerControl == true) {
 	moveRight = keyboard_check(vk_right);
 	moveLeft = keyboard_check(vk_left);
 	moveUp = keyboard_check(vk_up);
@@ -13,7 +13,7 @@ if (global.playerControl == false) {
 	moveLeft = 0;
 	moveUp = 0;
 	moveDown = 0;
-}
+}*/
 
 vx = ((moveRight - moveLeft) * walkSpeed);
 vy = ((moveDown - moveUp) * walkSpeed);
@@ -55,6 +55,5 @@ if (vx != 0 || vy != 0){
 //collision with NPC
 
 nearbyNPC = collision_rectangle(x-lookRange,y-lookRange,x+lookRange,y+lookRange,objectParNPC,false,true);
-
 	
 depth = -y;

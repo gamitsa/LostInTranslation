@@ -2,13 +2,19 @@
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
   "name": "objectNPC",
-  "spriteId": null,
+  "spriteId": {
+    "name": "spriteNPC",
+    "path": "sprites/spriteNPC/spriteNPC.yy",
+  },
   "solid": false,
   "visible": true,
   "managed": true,
   "spriteMaskId": null,
   "persistent": false,
-  "parentObjectId": null,
+  "parentObjectId": {
+    "name": "objectParNPC",
+    "path": "objects/objectParNPC/objectParNPC.yy",
+  },
   "physicsObject": false,
   "physicsSensor": false,
   "physicsShape": 1,
@@ -25,7 +31,7 @@
   "properties": [],
   "overriddenProperties": [],
   "parent": {
-    "name": "Objects",
-    "path": "folders/Objects.yy",
+    "name": "characters",
+    "path": "folders/Objects/characters.yy",
   },
 }
