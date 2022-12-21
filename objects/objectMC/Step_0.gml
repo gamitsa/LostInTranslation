@@ -2,6 +2,21 @@
 
 //checking keys for movement 
 
+<<<<<<< HEAD
+=======
+/*if (global.playerControl == true) { */
+	moveRight = keyboard_check(vk_right);
+	moveLeft = keyboard_check(vk_left);
+	moveUp = keyboard_check(vk_up);
+	moveDown = keyboard_check(vk_down);
+/*}
+if (global.playerControl == false) {
+	moveRight = 0;
+	moveLeft = 0;
+	moveUp = 0;
+	moveDown = 0;
+}*/
+>>>>>>> cce80728634d7b2bb7df3682c6185bda0294a6f2
 
 vx = ((moveRight - moveLeft) * walkSpeed);
 vy = ((moveDown - moveUp) * walkSpeed);
