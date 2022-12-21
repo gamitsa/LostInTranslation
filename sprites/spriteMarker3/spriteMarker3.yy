@@ -68,7 +68,7 @@
   ],
   "nineSlice": null,
   "parent": {
-    "name": "crime scene markers",
-    "path": "folders/Sprites/crime scene markers.yy",
+    "name": "Crime scene markers",
+    "path": "folders/Sprites/Crime scene markers.yy",
   },
 }

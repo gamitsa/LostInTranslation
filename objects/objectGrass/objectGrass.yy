@@ -1,17 +1,17 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "objectHouse",
-  "spriteId": null,
-  "solid": true,
+  "name": "objectGrass",
+  "spriteId": {
+    "name": "spriteGrass",
+    "path": "sprites/spriteGrass/spriteGrass.yy",
+  },
+  "solid": false,
   "visible": true,
   "managed": true,
   "spriteMaskId": null,
   "persistent": false,
-  "parentObjectId": {
-    "name": "objectParEnvironment",
-    "path": "objects/objectParEnvironment/objectParEnvironment.yy",
-  },
+  "parentObjectId": null,
   "physicsObject": false,
   "physicsSensor": false,
   "physicsShape": 1,
@@ -28,7 +28,7 @@
   "properties": [],
   "overriddenProperties": [],
   "parent": {
-    "name": "assets",
-    "path": "folders/Objects/assets.yy",
+    "name": "Environment",
+    "path": "folders/Objects/Environment.yy",
   },
 }

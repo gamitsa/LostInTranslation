@@ -28,7 +28,7 @@
   "properties": [],
   "overriddenProperties": [],
   "parent": {
-    "name": "assets",
-    "path": "folders/Objects/assets.yy",
+    "name": "Environment",
+    "path": "folders/Objects/Environment.yy",
   },
 }

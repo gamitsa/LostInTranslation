@@ -31,7 +31,7 @@
   ],
   "overriddenProperties": [],
   "parent": {
-    "name": "LostInTranslation",
-    "path": "LostInTranslation.yyp",
+    "name": "NPCs",
+    "path": "folders/Objects/NPCs.yy",
   },
 }
