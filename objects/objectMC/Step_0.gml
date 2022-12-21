@@ -57,3 +57,6 @@ if (vx != 0 || vy != 0){
 //collision with NPC
 
 nearbyNPC = collision_rectangle (x-lookRange,y-lookRange,x+lookRange,y+lookRange,objectParNPC,false,true);
+
+// Depth sorting
+depth =-y;
