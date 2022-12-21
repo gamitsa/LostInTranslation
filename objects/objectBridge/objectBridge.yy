@@ -1,20 +1,14 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "objectShrine",
-  "spriteId": {
-    "name": "spriteShrine",
-    "path": "sprites/spriteShrine/spriteShrine.yy",
-  },
+  "name": "objectBridge",
+  "spriteId": null,
   "solid": false,
   "visible": true,
   "managed": true,
   "spriteMaskId": null,
   "persistent": false,
-  "parentObjectId": {
-    "name": "objectParEnvironment",
-    "path": "objects/objectParEnvironment/objectParEnvironment.yy",
-  },
+  "parentObjectId": null,
   "physicsObject": false,
   "physicsSensor": false,
   "physicsShape": 1,

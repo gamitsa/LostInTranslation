@@ -1,10 +1,10 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "objectShrine",
+  "name": "objectHospital",
   "spriteId": {
-    "name": "spriteShrine",
-    "path": "sprites/spriteShrine/spriteShrine.yy",
+    "name": "hospital",
+    "path": "sprites/hospital/hospital.yy",
   },
   "solid": false,
   "visible": true,

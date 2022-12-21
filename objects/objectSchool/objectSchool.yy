@@ -1,10 +1,10 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "objectShrine",
+  "name": "objectSchool",
   "spriteId": {
-    "name": "spriteShrine",
-    "path": "sprites/spriteShrine/spriteShrine.yy",
+    "name": "school",
+    "path": "sprites/school/school.yy",
   },
   "solid": false,
   "visible": true,

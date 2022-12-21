@@ -2,10 +2,7 @@
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
   "name": "objectHouse",
-  "spriteId": {
-    "name": "spriteHouse",
-    "path": "sprites/spriteHouse/spriteHouse.yy",
-  },
+  "spriteId": null,
   "solid": true,
   "visible": true,
   "managed": true,

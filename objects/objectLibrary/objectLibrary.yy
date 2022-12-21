@@ -1,14 +1,20 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "objectClue",
-  "spriteId": null,
+  "name": "objectLibrary",
+  "spriteId": {
+    "name": "spriteLibrary",
+    "path": "sprites/spriteLibrary/spriteLibrary.yy",
+  },
   "solid": false,
   "visible": true,
   "managed": true,
   "spriteMaskId": null,
   "persistent": false,
-  "parentObjectId": null,
+  "parentObjectId": {
+    "name": "objectParEnvironment",
+    "path": "objects/objectParEnvironment/objectParEnvironment.yy",
+  },
   "physicsObject": false,
   "physicsSensor": false,
   "physicsShape": 1,
