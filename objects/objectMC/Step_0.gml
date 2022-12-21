@@ -2,12 +2,12 @@
 
 //checking keys for movement 
 
-/*if (global.playerControl == true) {
+/*if (global.playerControl == true) { */
 	moveRight = keyboard_check(vk_right);
 	moveLeft = keyboard_check(vk_left);
 	moveUp = keyboard_check(vk_up);
 	moveDown = keyboard_check(vk_down);
-}
+/*}
 if (global.playerControl == false) {
 	moveRight = 0;
 	moveLeft = 0;
