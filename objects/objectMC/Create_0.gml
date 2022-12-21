@@ -11,3 +11,6 @@ moveUp = 0;
 moveDown = 0;
 nearbyNPC = noone;
 lookRange = 30;
+runSpeed = 0;
+runMax = 12;
+running = false;
