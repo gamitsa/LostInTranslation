@@ -1,7 +1,7 @@
 {
   "resourceType": "GMRoom",
   "resourceVersion": "1.0",
-  "name": "Room_Initialization",
+  "name": "Room_Initiation",
   "isDnd": false,
   "volume": 1.0,
   "parentRoom": null,
@@ -25,7 +25,7 @@
   "creationCodeFile": "${project_dir}/rooms/Room_Initialization/RoomCreationCode.gml",
   "inheritCode": false,
   "instanceCreationOrder": [
-    {"name":"inst_951C105","path":"rooms/Room_Initialization/Room_Initialization.yy",},
+    {"name":"inst_951C105","path":"rooms/Room_Initiation/Room_Initiation.yy",},
   ],
   "inheritCreationOrder": false,
   "sequenceId": null,
