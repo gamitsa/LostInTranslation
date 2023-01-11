@@ -39,7 +39,9 @@ inv = array_create(0);
 
 
 
-
+//for drawing and mouse positions
+sep = 25;
+screen_bord = 25;
 
 
 

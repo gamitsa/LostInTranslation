@@ -12,7 +12,6 @@
     {"id":{"name":"spriteMarker2","path":"sprites/spriteMarker2/spriteMarker2.yy",},"order":4,},
     {"id":{"name":"spr_block","path":"sprites/spr_block/spr_block.yy",},"order":11,},
     {"id":{"name":"spriteLibrary","path":"sprites/spriteLibrary/spriteLibrary.yy",},"order":7,},
-    {"id":{"name":"objectGun","path":"objects/objectGun/objectGun.yy",},"order":1,},
     {"id":{"name":"spriteGun","path":"sprites/spriteGun/spriteGun.yy",},"order":3,},
     {"id":{"name":"objectHospital","path":"objects/objectHospital/objectHospital.yy",},"order":0,},
     {"id":{"name":"spriteBloodyPaper","path":"sprites/spriteBloodyPaper/spriteBloodyPaper.yy",},"order":2,},
