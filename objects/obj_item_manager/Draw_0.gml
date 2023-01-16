@@ -9,4 +9,5 @@ for (var i = 0; i < array_length(inv); i++)
 	
 	draw_sprite( inv[i].sprite, 0, _xx, _yy + _sep*i );
 	draw_text( _xx + 40, _yy + _sep*i, inv[i].name );
+
 	}

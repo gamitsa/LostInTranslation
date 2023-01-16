@@ -1,10 +1,10 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "obj_item_overworld",
+  "name": "obj_item_overworld_paper",
   "spriteId": {
-    "name": "spriteGun",
-    "path": "sprites/spriteGun/spriteGun.yy",
+    "name": "spriteBloodyPaper",
+    "path": "sprites/spriteBloodyPaper/spriteBloodyPaper.yy",
   },
   "solid": false,
   "visible": true,
