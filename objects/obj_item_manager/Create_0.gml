@@ -35,6 +35,9 @@ global.item_list =
 inv = array_create(0);
 
 
+selected_item = -1;
+
+
 //for drawing and mouse positions
 sep = 25;
 screen_bord = 25;
