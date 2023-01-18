@@ -15,6 +15,10 @@ function create_item(_name, _desc, _spr) constructor
 //create the items
 global.item_list =
 {
+	burger : new create_item(
+	"Burger",
+	"A burger, I'll eat it when I get hungry!",
+	spriteBurger),
 
 	gun : new create_item(
 	"Gun", 
