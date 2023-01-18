@@ -23,7 +23,7 @@ global.item_list =
 	
 	paper : new create_item(
 	"Paper", 
-	"A paper with blood on it. Is this connected to the murder somehow?", 
+	"A paper with blood on it. it states: '231 in favor, 229 against'. Could this be tied to the case?", 
 	spriteBloodyPaper),
 		
 }
