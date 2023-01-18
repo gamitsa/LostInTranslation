@@ -18,13 +18,18 @@ global.item_list =
 
 	gun : new create_item(
 	"Gun", 
-	"It's a gun. Could this have been the murder weapon?", 
+	"A gun that was thrown away in a puddle of water... Could this have been the murder weapon?", 
 	spriteGun),
 	
 	paper : new create_item(
 	"Paper", 
 	"A paper with blood on it. it states: '231 in favor, 229 against'. Could this be tied to the case?", 
 	spriteBloodyPaper),
+	
+	flashlight : new create_item(
+	"Flashlight",
+	"A flashlight, it might come in handy in dark places.",
+	spriteFlashlight),
 		
 }
 
