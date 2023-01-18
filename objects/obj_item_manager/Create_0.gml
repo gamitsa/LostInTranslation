@@ -16,12 +16,12 @@ function create_item(_name, _desc, _spr) constructor
 global.item_list =
 {
 
-	gun : create_item(
+	gun : new create_item(
 	"Gun", 
 	"It's a gun. Could this have been the murder weapon?", 
 	spriteGun),
 	
-	paper : create_item(
+	paper : new create_item(
 	"Paper", 
 	"A paper with blood on it. Is this connected to the murder somehow?", 
 	spriteBloodyPaper),
