@@ -9,19 +9,19 @@ for (var i = 0; i < array_length(inv); i++)
 	var _col = c_white;
 	
 	//icon
-	draw_sprite( inv[i].sprite, 0, _xx, _yy + _sep*i );
+	draw_sprite( inv[i].sprite, 0, _xx + 4, _yy + _sep*i );
 	
 	//get "selected"color
 	if selected_item == i {_col = c_yellow; };
 	draw_set_color(_col);
 	
 	//name
-	draw_text( _xx + 40, _yy + _sep*i, inv[i].name );
+	draw_text( _xx + 40, _yy + 6 + _sep*i, inv[i].name );
 	
 	//description
 	if selected_item == i 
 		{
-	draw_text_ext( _xx + 40, _yy + _sep*array_length(inv), inv[i].description, 20, 150 );
+	draw_text_ext( _xx + 5, _yy + 4 + _sep*array_length(inv), inv[i].description, 20, 150 );
 		}
 	
 	//reset color to white
