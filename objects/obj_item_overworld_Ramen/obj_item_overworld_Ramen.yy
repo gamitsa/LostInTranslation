@@ -1,10 +1,10 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "obj_item_overworld_burger",
+  "name": "obj_item_overworld_Ramen",
   "spriteId": {
-    "name": "spriteBurger",
-    "path": "sprites/spriteBurger/spriteBurger.yy",
+    "name": "spriteUdon",
+    "path": "sprites/spriteUdon/spriteUdon.yy",
   },
   "solid": false,
   "visible": true,
