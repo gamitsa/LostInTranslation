@@ -17,10 +17,10 @@ function create_item(_name, _desc, _spr, _effect) constructor
 global.item_list =
 {
 	
-	burger : new create_item(
-	"Burger",
-	"A burger, I'll eat it when I get hungry!",
-	spriteBurger,
+	ramen : new create_item(
+	"Ramen",
+	"A classic bowl of ramen!",
+	spriteUdon,
 	
 	function()
 		{
