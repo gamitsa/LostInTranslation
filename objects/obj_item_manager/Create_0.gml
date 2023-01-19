@@ -17,19 +17,19 @@ function create_item(_name, _desc, _spr, _effect) constructor
 global.item_list =
 {
 	
-	ramen : new create_item(
-	"Ramen",
-	"A classic bowl of ramen!",
-	spriteUdon,
+	//ramen : new create_item(
+	//"Ramen",
+	//"A classic bowl of ramen!",
+	//spriteUdon,
 	
-	function()
-		{
-		objectMC.walkSpeed += 2;
+	//function()
+		//{
+		//objectMC.walkSpeed += 2;
 		
 		//get rid of the item
-		array_delete(inv, selected_item, 1);
-		}
-	),
+		//array_delete(inv, selected_item, 1);
+	//	}
+	//),
 
 	
 	paper : new create_item(
