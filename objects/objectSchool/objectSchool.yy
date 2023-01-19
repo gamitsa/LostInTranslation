@@ -3,8 +3,8 @@
   "resourceVersion": "1.0",
   "name": "objectSchool",
   "spriteId": {
-    "name": "school",
-    "path": "sprites/school/school.yy",
+    "name": "spriteSchool",
+    "path": "sprites/spriteSchool/spriteSchool.yy",
   },
   "solid": false,
   "visible": true,
