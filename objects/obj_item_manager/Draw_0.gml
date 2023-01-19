@@ -26,4 +26,6 @@ for (var i = 0; i < array_length(inv); i++)
 	
 	//reset color to white
 	draw_set_color(c_white);
+	
 	}
+	
