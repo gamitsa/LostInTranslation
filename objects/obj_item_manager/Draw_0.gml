@@ -21,7 +21,7 @@ for (var i = 0; i < array_length(inv); i++)
 	//description
 	if selected_item == i 
 		{
-	draw_text_ext( _xx + 5, _yy + 10 + _sep*array_length(inv), inv[i].description, 20, 200 );
+	draw_text_ext( _xx + 5, _yy + 9 + _sep*array_length(inv), inv[i].description, 20, 200 );
 		}
 	
 	//reset color to white
