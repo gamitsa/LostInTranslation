@@ -46,6 +46,8 @@
         {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_2E303313","properties":[],"isDnd":false,"objectId":{"name":"obj_block","path":"objects/obj_block/obj_block.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.04,"scaleY":1.02,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":2504.0,"y":1103.0,},
         {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_135FD806","properties":[],"isDnd":false,"objectId":{"name":"obj_block","path":"objects/obj_block/obj_block.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.205,"scaleY":0.255,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":2409.0,"y":1285.0,},
         {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_21E8463A","properties":[],"isDnd":false,"objectId":{"name":"obj_block","path":"objects/obj_block/obj_block.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":0.25,"scaleY":1.0474993,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":2660.0,"y":839.5001,},
+        {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_33DB4CBC","properties":[],"isDnd":false,"objectId":{"name":"obj_item_overworld_burger","path":"objects/obj_item_overworld_burger/obj_item_overworld_burger.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":256.0,"y":192.0,},
+        {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_12D4855E","properties":[],"isDnd":false,"objectId":{"name":"obj_item_overworld_paper","path":"objects/obj_item_overworld_paper/obj_item_overworld_paper.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":192.0,"y":288.0,},
       ],"visible":true,"depth":0,"userdefinedDepth":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritVisibility":true,"inheritSubLayers":true,"gridX":32,"gridY":32,"layers":[],"hierarchyFrozen":false,"effectEnabled":true,"effectType":null,"properties":[],},
     {"resourceType":"GMRInstanceLayer","resourceVersion":"1.0","name":"Instances_2","instances":[
         {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_445CD123","properties":[],"isDnd":false,"objectId":{"name":"objectShops","path":"objects/objectShops/objectShops.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":1157.0,"y":1160.0,},
@@ -333,7 +335,7 @@
     {"resourceType":"GMRBackgroundLayer","resourceVersion":"1.0","name":"Background","spriteId":null,"colour":4294967295,"x":0,"y":0,"htiled":false,"vtiled":false,"hspeed":0.0,"vspeed":0.0,"stretch":false,"animationFPS":30.0,"animationSpeedType":0,"userdefinedAnimFPS":false,"visible":true,"depth":600,"userdefinedDepth":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritVisibility":true,"inheritSubLayers":true,"gridX":32,"gridY":32,"layers":[],"hierarchyFrozen":false,"effectEnabled":true,"effectType":null,"properties":[],},
   ],
   "inheritLayers": false,
-  "creationCodeFile": "",
+  "creationCodeFile": "${project_dir}/rooms/roomVillage/RoomCreationCode.gml",
   "inheritCode": false,
   "instanceCreationOrder": [
     {"name":"inst_643455FB","path":"rooms/roomVillage/roomVillage.yy",},
@@ -611,6 +613,8 @@
     {"name":"inst_D97F334","path":"rooms/roomVillage/roomVillage.yy",},
     {"name":"inst_7D97EEF5","path":"rooms/roomVillage/roomVillage.yy",},
     {"name":"inst_4E540DF5","path":"rooms/roomVillage/roomVillage.yy",},
+    {"name":"inst_33DB4CBC","path":"rooms/roomVillage/roomVillage.yy",},
+    {"name":"inst_12D4855E","path":"rooms/roomVillage/roomVillage.yy",},
   ],
   "inheritCreationOrder": false,
   "sequenceId": null,
@@ -623,7 +627,7 @@
   "viewSettings": {
     "inheritViewSettings": false,
     "enableViews": true,
-    "clearViewBackground": false,
+    "clearViewBackground": true,
     "clearDisplayBuffer": true,
   },
   "physicsSettings": {
