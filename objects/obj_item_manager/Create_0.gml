@@ -1,7 +1,5 @@
 depth = -9999;
 
-global.font = Font1;
-
 
 //item constructor
 function create_item(_name, _desc, _spr, _effect) constructor
