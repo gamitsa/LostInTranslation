@@ -16,14 +16,9 @@ switch(_text_id) {
 		scr_text("That is Miss Hitomi. She's been crying for days. Her daughter was killed recently...", "friend", -1);
 		scr_text("Do you think we can talk to her?", "main character");
 		scr_text("We can try, but she is in mourning, and you can't enter the shrine as you are not religious.", "friend", -1);
-		scr_text("こんにちは奥様! (Hello ma'am!)", "friend", -1);
-		scr_text("こんにちは. (Good afternoon.)", "miss hitomi", -1);
-		scr_text("私は友人のアダムス氏と一緒にここにいます。 彼は本当にあなたを助けたいと思っています、奥様。(I am here with my friend Mr Addams. He really wants to help you, ma'am.)", "friend", -1);
-		break;
-	
-	
-	
-	case "npc 3":
+		scr_text("Kon'nichiwa okusama! (Hello ma'am!)", "friend", -1);
+		scr_text("Kon'nichiwa. (Good afternoon.)", "miss hitomi", -1);
+		scr_text("Watashi wa yujin no Adamusu-shi to issho ni koko ni imasu. Kare wa hontoni anata o tasuketai to omotte imasu, okusama. (I am here with my friend Mr Addams. He really wants to help you, ma'am.)", "friend", -1);
 		scr_text("Hello! My name is Mr Addams!", "main character");
 		scr_text("My name is Ms Hitomi.", "miss hitomi", -1);
 		scr_text("I am a detective from England. I heard about your situation and would like to offer my help.", "main character");
@@ -51,7 +46,7 @@ switch(_text_id) {
 		scr_text("*sighs* Okay, please follow me...", "miss hitomi", -1);
 		break;
 	
-	case "npc 4":
+	case "npc 3":
 		
 		break;
 	

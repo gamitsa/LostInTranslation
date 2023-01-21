@@ -72,7 +72,7 @@ textbox_y = camera_get_view_x(view_camera[0]) + 770;
 			
 			var _char_pos = c+1;
 			var _txtb_x = textbox_x + text_x_offset[p] + border;
-			var _txtb_y = textbox_y;
+			var _txtb_y = textbox_y + border;
 			//get current width of the line
 			var _txt_up_to_char = string_copy( text[p], 1, _char_pos );
 			var _current_txt_w = string_width(_txt_up_to_char) - string_width( char[c, p] );
@@ -213,7 +213,7 @@ if draw_char == text_length[page] && page == page_number - 1
 		{
 		//the option box
 		var _o_w = string_width(option[op]) + _op_bord*2;
-		draw_sprite_ext(txtb_spr[page], txtb_img, _txtb_x + 64, _txtb_y - _op_space*option_number + _op_space*op, _o_w/txtb_spr_w, (_op_space-8)/txtb_spr_h, 0, c_white, 1);
+		draw_sprite_ext(txtb_spr[page], txtb_img, _txtb_x + 65, _txtb_y - _op_space*option_number + _op_space*op, _o_w/txtb_spr_w, (_op_space-8)/txtb_spr_h, 0, c_white, 1);
 		
 		
 		//the arrow
