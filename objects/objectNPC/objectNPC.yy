@@ -3,8 +3,8 @@
   "resourceVersion": "1.0",
   "name": "objectNPC",
   "spriteId": {
-    "name": "spriteNPC",
-    "path": "sprites/spriteNPC/spriteNPC.yy",
+    "name": "spriteNPCidle_down",
+    "path": "sprites/spriteNPCidle_down/spriteNPCidle_down.yy",
   },
   "solid": false,
   "visible": true,
