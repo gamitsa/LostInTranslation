@@ -2,10 +2,7 @@
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
   "name": "objectTextBox",
-  "spriteId": {
-    "name": "spriteTextBox",
-    "path": "sprites/spriteTextBox/spriteTextBox.yy",
-  },
+  "spriteId": null,
   "solid": false,
   "visible": true,
   "managed": true,

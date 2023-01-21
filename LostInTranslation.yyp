@@ -33,7 +33,6 @@
     {"id":{"name":"spriteNPCdown","path":"sprites/spriteNPCdown/spriteNPCdown.yy",},"order":1,},
     {"id":{"name":"spriteGrass","path":"sprites/spriteGrass/spriteGrass.yy",},"order":1,},
     {"id":{"name":"roomCrimeScene","path":"rooms/roomCrimeScene/roomCrimeScene.yy",},"order":1,},
-    {"id":{"name":"spriteTextBox","path":"sprites/spriteTextBox/spriteTextBox.yy",},"order":3,},
     {"id":{"name":"objectRock1","path":"objects/objectRock1/objectRock1.yy",},"order":6,},
     {"id":{"name":"objectClue1","path":"objects/objectClue1/objectClue1.yy",},"order":15,},
     {"id":{"name":"spriteWaterWheel","path":"sprites/spriteWaterWheel/spriteWaterWheel.yy",},"order":6,},
@@ -133,8 +132,8 @@
     "children": [],
   },
   "RoomOrderNodes": [
-    {"roomId":{"name":"room_initiation","path":"rooms/room_initiation/room_initiation.yy",},},
     {"roomId":{"name":"roomVillage","path":"rooms/roomVillage/roomVillage.yy",},},
+    {"roomId":{"name":"room_initiation","path":"rooms/room_initiation/room_initiation.yy",},},
     {"roomId":{"name":"roomCrimeScene","path":"rooms/roomCrimeScene/roomCrimeScene.yy",},},
   ],
   "Folders": [
