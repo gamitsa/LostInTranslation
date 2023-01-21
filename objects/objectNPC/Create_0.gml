@@ -1,1 +1,1 @@
-path_start(PathTourFULL, 3, path_action_restart, true);
+path_start(PathTourFULL, 4, path_action_reverse, true);
