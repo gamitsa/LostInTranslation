@@ -145,8 +145,8 @@
   },
   "RoomOrderNodes": [
     {"roomId":{"name":"roomVillage","path":"rooms/roomVillage/roomVillage.yy",},},
-    {"roomId":{"name":"room_initiation","path":"rooms/room_initiation/room_initiation.yy",},},
     {"roomId":{"name":"roomCrimeScene","path":"rooms/roomCrimeScene/roomCrimeScene.yy",},},
+    {"roomId":{"name":"room_initiation","path":"rooms/room_initiation/room_initiation.yy",},},
   ],
   "Folders": [
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Animation Curves","folderPath":"folders/Animation Curves.yy","order":12,},
