@@ -13,6 +13,7 @@
     {"id":{"name":"spriteBlood","path":"sprites/spriteBlood/spriteBlood.yy",},"order":5,},
     {"id":{"name":"spriteGRANNYright","path":"sprites/spriteGRANNYright/spriteGRANNYright.yy",},"order":2,},
     {"id":{"name":"tiles_village","path":"tilesets/tiles_village/tiles_village.yy",},"order":2,},
+    {"id":{"name":"roomCrimeSceneTest","path":"rooms/roomCrimeSceneTest/roomCrimeSceneTest.yy",},"order":5,},
     {"id":{"name":"spriteMarker5","path":"sprites/spriteMarker5/spriteMarker5.yy",},"order":1,},
     {"id":{"name":"spr_play","path":"sprites/spr_play/spr_play.yy",},"order":0,},
     {"id":{"name":"spriteRock3","path":"sprites/spriteRock3/spriteRock3.yy",},"order":7,},
@@ -167,6 +168,7 @@
     {"roomId":{"name":"roomCrimeScene","path":"rooms/roomCrimeScene/roomCrimeScene.yy",},},
     {"roomId":{"name":"room_initiation","path":"rooms/room_initiation/room_initiation.yy",},},
     {"roomId":{"name":"room_credits","path":"rooms/room_credits/room_credits.yy",},},
+    {"roomId":{"name":"roomCrimeSceneTest","path":"rooms/roomCrimeSceneTest/roomCrimeSceneTest.yy",},},
   ],
   "Folders": [
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Animation Curves","folderPath":"folders/Animation Curves.yy","order":12,},

@@ -7,7 +7,7 @@
     "path": "sprites/spr_warp/spr_warp.yy",
   },
   "solid": false,
-  "visible": true,
+  "visible": false,
   "managed": true,
   "spriteMaskId": null,
   "persistent": false,

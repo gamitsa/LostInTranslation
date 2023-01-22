@@ -174,6 +174,7 @@ if accept_key
 	
 	
 //draw the textbox
+show_debug_message(text_x_offset[page]);
 var _txtb_x = textbox_x + text_x_offset[page];
 var _txtb_y = textbox_y;
 txtb_img += txtb_img_spd;
@@ -237,8 +238,14 @@ for(var c=0; c < draw_char; c++)
 		
 		
 	var _text_x = char_x[c, page] + textbox_x;
-	var _text_y = char_y[c, page] + textbox_y - 1540 ;
-	
+	if room = roomVillage
+		{
+		var _text_y = char_y[c, page] + textbox_y - 1540 ; //needs to be 1540 / 2 for crimescene
+		}
+	else if room = roomCrimeSceneTest
+		{
+		var _text_y = char_y[c, page] + textbox_y - 1540 / 2; //needs to be 1540 / 2 for crimescene		
+		}
 	//the text
 	draw_text(_text_x, _text_y, char[c, page]);
 		
