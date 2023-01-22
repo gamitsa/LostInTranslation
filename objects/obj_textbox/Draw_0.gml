@@ -1,7 +1,7 @@
 accept_key = keyboard_check_pressed(vk_space);
 
 textbox_x = camera_get_view_x(view_camera[0]);
-textbox_y = camera_get_view_x(view_camera[0]) + 770;
+textbox_y = camera_get_view_x(view_camera[0]) + 770; // delete 770 for dialogue above //change _x with _y
 
 //Setup
  if setup == false
