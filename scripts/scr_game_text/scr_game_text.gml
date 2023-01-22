@@ -12,7 +12,8 @@ switch(_text_id) {
 		break;
 	
 	
-	case "npc 2":
+	case "shrine":
+		scr_text("This is a shrine - a holy space dedicated to our ancestors. Here we pray and find guidance during difficult times!", "friend", -1);
 		scr_text("That is Miss Hitomi. She's been crying for days. Her daughter was killed recently...", "friend", -1);
 		scr_text("Do you think we can talk to her?", "main character");
 		scr_text("We can try, but she is in mourning, and you can't enter the shrine as you are not religious.", "friend", -1);
@@ -46,13 +47,72 @@ switch(_text_id) {
 		scr_text("*sighs* Okay, please follow me...", "miss hitomi", -1);
 		break;
 	
-	case "npc 3":
-		
+	case "school":
+		scr_text("This is the secondary school I've been attending! Here I learned a lot and got inspired to study criminology!", "friend", -1);
+		scr_text("What inspired you the most?", "main character");
+		scr_text("It was my math teacher actually! His talks about statistics made me interested in statistical analysis of crimes!", "friend", -1);
 		break;
 	
+	case "first marketplace":
+		scr_text("This wonderful marketplace always sells fresh fruits and vegetables!", "friend", -1);
+		break;
+
+
+	case "rural area tlc":
+		scr_text("A very cozy and quiet neighborhood is located here!", "friend", -1);
+		scr_text("Looks cute!", "main character");
+		break;
+
+
+	case "ramen":
+		scr_text("A place where the best ramen is served! The owner uses a unique recipe that his family has been developing for years!", "friend", -1);
+		scr_text("WOW", "main character");
+		break;
+
+
+	case "second marketplace":
+		scr_text("Here you can get the handmade goods for a very convenient price! From socks to sweaters!", "friend", -1);
+		break;
+
+
+	case "rural area trc":
+		scr_text("This is the area where most of the village houses are located. I also live here!", "friend", -1);
+		scr_text("I really like this place!", "main character");
+		break;
+		
+	case "crime scene":
+		scr_text("That's where it happened...", "miss hitomi", -1);
+		scr_text("I can't stand to look at this for long. Every time I do, I can't help but imagine what she would've looked like in her final moments.", "miss hitomi", -1);
+		scr_text("Could you tell us what happened?", "main character");
+		scr_text("I don't know much yet myself, they told me she had a small but deep puncture wound in her throat *sighs*", "miss hitomi", -1);
+		scr_text("I don't know how the police think she could've done that to herself...", "miss hitomi", -1);
+		break;
+		
+	case "barn":
+		scr_text("We have a barn where we keep everything related to livestock, including cattle, as well as equipment and feed.", "friend", -1);
+		scr_text("It isn't anything special, but a cozy village where everyone lives in peace with one another!", "friend", -1);
+		scr_text("Well, at least it was until a couple days ago...", "friend", -1);
+		break;
 	
-	
-	
+	case "clue 1":
+		scr_text("What is this?", "main character");
+		scr_text("Nonaka was stabbed in the throat with a sharp weapon with a small entry wound. We found the weapon a few days after the crime happened.", "friend", -1);
+		break;
+		
+	case "clue 2":
+		scr_text("Body outline.", "main character");
+		break;
+		
+	case "clue 3":
+		scr_text("A piece of paper?", "main character");
+		scr_text("Miss Hitomi, do you know what this document could have meant?", "main character");
+		scr_text("She was supposed to deliver it to her boss at municipality one town over.", "miss hitomi", -1);
+		scr_text("I think it contains the results of a poll everyone had to vote for. A big industrial company wants to place a factory in the massive fields that belong to the village. They need the majority of the inhabitants of the village to sign a document, so that the factory can officially be built.", "miss hitomi", -1);
+		scr_text("That's a very important document...", "main character");
+		scr_text("That's all for now, thank you so much, Miss Hitomi", "main character");
+		scr_text("Please make sure you find out what happened to my baby.", "miss hitomi", -1);
+		break;
+		
 	}
 
 }
