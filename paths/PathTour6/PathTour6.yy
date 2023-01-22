@@ -3,8 +3,8 @@
   "resourceVersion": "1.0",
   "name": "PathTour6",
   "kind": 0,
-  "precision": 4,
   "closed": false,
+  "precision": 4,
   "points": [
     {"speed":100.0,"x":2400.0,"y":352.0,},
     {"speed":100.0,"x":2400.0,"y":672.0,},

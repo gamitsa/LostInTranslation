@@ -3,8 +3,8 @@
   "resourceVersion": "1.0",
   "name": "obj_exit",
   "spriteId": {
-    "name": "sprite_exit",
-    "path": "sprites/sprite_exit/sprite_exit.yy",
+    "name": "spr_exit",
+    "path": "sprites/spr_exit/spr_exit.yy",
   },
   "solid": false,
   "visible": true,
@@ -12,8 +12,8 @@
   "spriteMaskId": null,
   "persistent": false,
   "parentObjectId": {
-    "name": "obj_parent",
-    "path": "objects/obj_parent/obj_parent.yy",
+    "name": "obj_button_par",
+    "path": "objects/obj_button_par/obj_button_par.yy",
   },
   "physicsObject": false,
   "physicsSensor": false,

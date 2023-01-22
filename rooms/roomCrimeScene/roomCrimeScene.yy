@@ -48,6 +48,7 @@
         {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_1EF67D30","properties":[],"isDnd":false,"objectId":{"name":"objectTreeDark","path":"objects/objectTreeDark/objectTreeDark.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":-1.5820311,"scaleY":1.5820311,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":452.16406,"y":513.33594,},
         {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_5FB7CB9","properties":[],"isDnd":false,"objectId":{"name":"objectClue2","path":"objects/objectClue2/objectClue2.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":0.484375,"scaleY":0.484375,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":427.46875,"y":208.54688,},
         {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_316E19FB","properties":[],"isDnd":false,"objectId":{"name":"objectClue3","path":"objects/objectClue3/objectClue3.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":0.5390625,"scaleY":0.5390625,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":546.9922,"y":215.84375,},
+        {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_5A2EB6DB","properties":[],"isDnd":false,"objectId":{"name":"obj_escape","path":"objects/obj_escape/obj_escape.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":-64.0,"y":-32.0,},
       ],"visible":true,"depth":200,"userdefinedDepth":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritVisibility":true,"inheritSubLayers":true,"gridX":32,"gridY":32,"layers":[],"hierarchyFrozen":false,"effectEnabled":true,"effectType":null,"properties":[],},
     {"resourceType":"GMRInstanceLayer","resourceVersion":"1.0","name":"Instances_1","instances":[
         {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_78825D5A","properties":[],"isDnd":false,"objectId":{"name":"objectGrassDark","path":"objects/objectGrassDark/objectGrassDark.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":223.0,"y":289.0,},
@@ -142,6 +143,7 @@
     {"name":"inst_3679E71A","path":"rooms/roomCrimeScene/roomCrimeScene.yy",},
     {"name":"inst_38012FB0","path":"rooms/roomCrimeScene/roomCrimeScene.yy",},
     {"name":"inst_3C4205C4","path":"rooms/roomCrimeScene/roomCrimeScene.yy",},
+    {"name":"inst_5A2EB6DB","path":"rooms/roomCrimeScene/roomCrimeScene.yy",},
   ],
   "inheritCreationOrder": false,
   "sequenceId": null,

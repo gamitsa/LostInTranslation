@@ -3,8 +3,8 @@
   "resourceVersion": "1.0",
   "name": "obj_credits",
   "spriteId": {
-    "name": "sprite_credits",
-    "path": "sprites/sprite_credits/sprite_credits.yy",
+    "name": "spr_credits",
+    "path": "sprites/spr_credits/spr_credits.yy",
   },
   "solid": false,
   "visible": true,
@@ -12,8 +12,8 @@
   "spriteMaskId": null,
   "persistent": false,
   "parentObjectId": {
-    "name": "obj_parent",
-    "path": "objects/obj_parent/obj_parent.yy",
+    "name": "obj_button_par",
+    "path": "objects/obj_button_par/obj_button_par.yy",
   },
   "physicsObject": false,
   "physicsSensor": false,
