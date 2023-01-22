@@ -70,6 +70,7 @@
         {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_279DDE24","properties":[],"isDnd":false,"objectId":{"name":"objectGrassDark","path":"objects/objectGrassDark/objectGrassDark.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":336.0,"y":111.0,},
         {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_4FF72536","properties":[],"isDnd":false,"objectId":{"name":"objectRock1","path":"objects/objectRock1/objectRock1.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":33.0,"y":8.0,},
         {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_69EB6168","properties":[],"isDnd":false,"objectId":{"name":"objectStick","path":"objects/objectStick/objectStick.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":-0.7228051,"scaleX":0.6875,"scaleY":0.6875,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":379.18616,"y":162.875,},
+        {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_72BCB217","properties":[],"isDnd":false,"objectId":{"name":"obj_exitgame","path":"objects/obj_exitgame/obj_exitgame.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":-32.0,"y":-32.0,},
       ],"visible":true,"depth":300,"userdefinedDepth":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritVisibility":true,"inheritSubLayers":true,"gridX":32,"gridY":32,"layers":[],"hierarchyFrozen":false,"effectEnabled":true,"effectType":null,"properties":[],},
     {"resourceType":"GMRTileLayer","resourceVersion":"1.1","name":"Tiles_1","tilesetId":{"name":"tiles_crimescene","path":"tilesets/tiles_crimescene/tiles_crimescene.yy",},"x":0,"y":0,"tiles":{"TileDataFormat":1,"SerialiseWidth":20,"SerialiseHeight":14,"TileCompressedData":[
 -2,97,1,62,-5,97,1,66,-6,97,1,34,-6,97,1,62,-3,97,3,35,
@@ -134,6 +135,7 @@
     {"name":"inst_4FF72536","path":"rooms/roomCrimeScene/roomCrimeScene.yy",},
     {"name":"inst_69EB6168","path":"rooms/roomCrimeScene/roomCrimeScene.yy",},
     {"name":"inst_316E19FB","path":"rooms/roomCrimeScene/roomCrimeScene.yy",},
+    {"name":"inst_72BCB217","path":"rooms/roomCrimeScene/roomCrimeScene.yy",},
   ],
   "inheritCreationOrder": false,
   "sequenceId": null,
