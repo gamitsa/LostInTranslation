@@ -3,8 +3,8 @@
   "resourceVersion": "1.0",
   "name": "PathTourFULL",
   "kind": 0,
-  "precision": 4,
   "closed": false,
+  "precision": 4,
   "points": [
     {"speed":100.0,"x":704.0,"y":1696.0,},
     {"speed":100.0,"x":704.0,"y":1600.0,},

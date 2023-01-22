@@ -1,10 +1,21 @@
 depth = -9999;
 
 // Textbox parameters
-textbox_width = 900;
-textbox_height = 200;
-border = 20;
-line_sep = 30;
+if room = roomVillage
+{
+	textbox_width = 900;
+	textbox_height = 200;
+	border = 20;
+	line_sep = 30;
+}
+else if room = roomCrimeSceneTest
+{
+	textbox_width = 120;
+	textbox_height = 400;
+	border = 10;
+	line_sep = 15;
+}
+
 line_width = textbox_width - border*2;
 txtb_spr[0] = spr_textbox;
 txtb_img = 0;
