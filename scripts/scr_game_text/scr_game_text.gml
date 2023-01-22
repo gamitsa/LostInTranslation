@@ -95,8 +95,7 @@ switch(_text_id) {
 		break;
 	
 	case "clue 1":
-		scr_text("What is this?", "main character");
-		scr_text("Nonaka was stabbed in the throat with a sharp weapon with a small entry wound. We found the weapon a few days after the crime happened.", "friend", -1);
+		scr_text("She must've went off the path and stepped on this branch.", "main character");
 		break;
 		
 	case "clue 2":
@@ -107,7 +106,8 @@ switch(_text_id) {
 		scr_text("A piece of paper?", "main character");
 		scr_text("Miss Hitomi, do you know what this document could have meant?", "main character");
 		scr_text("She was supposed to deliver it to her boss at municipality one town over.", "miss hitomi", -1);
-		scr_text("I think it contains the results of a poll everyone had to vote for. A big industrial company wants to place a factory in the massive fields that belong to the village. They need the majority of the inhabitants of the village to sign a document, so that the factory can officially be built.", "miss hitomi", -1);
+		scr_text("I think it contains the results of a poll everyone had to vote for. A big industrial company wants to place a factory in the massive fields that belong to the village.", "miss hitomi", -1);
+		scr_text("They need the majority of the inhabitants of the village to sign a document, so that the factory can officially be built.", "miss hitomi", -1);
 		scr_text("That's a very important document...", "main character");
 		scr_text("That's all for now, thank you so much, Miss Hitomi", "main character");
 		scr_text("Please make sure you find out what happened to my baby.", "miss hitomi", -1);

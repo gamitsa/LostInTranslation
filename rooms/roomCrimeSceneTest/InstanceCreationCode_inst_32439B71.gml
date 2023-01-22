@@ -1,1 +1,1 @@
-text_id = "clue 1";
+text_id = "clue 3";
