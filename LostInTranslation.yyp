@@ -151,9 +151,9 @@
     {"id":{"name":"roomVillage","path":"rooms/roomVillage/roomVillage.yy",},"order":0,},
   ],
   "Options": [
-    {"name":"Windows","path":"options/windows/options_windows.yy",},
     {"name":"operagx","path":"options/operagx/options_operagx.yy",},
     {"name":"Main","path":"options/main/options_main.yy",},
+    {"name":"Windows","path":"options/windows/options_windows.yy",},
   ],
   "defaultScriptType": 1,
   "isEcma": false,
@@ -206,6 +206,6 @@
   ],
   "IncludedFiles": [],
   "MetaData": {
-    "IDEVersion": "2022.11.1.56",
+    "IDEVersion": "2022.11.0.54",
   },
 }

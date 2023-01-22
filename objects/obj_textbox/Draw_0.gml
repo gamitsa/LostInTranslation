@@ -235,7 +235,11 @@ if draw_char == text_length[page] && page == page_number - 1
 for(var c=0; c < draw_char; c++)
 	{
 		
-		//the text
-		draw_text( char_x[c, page], char_y[c, page], char[c, page] );
+		
+	var _text_x = char_x[c, page] + textbox_x;
+	var _text_y = char_y[c, page] + textbox_y - 1540 ;
+	
+	//the text
+	draw_text(_text_x, _text_y, char[c, page]);
 		
 	}
