@@ -15,3 +15,5 @@ lookRange = 30;
 runSpeed = 0;
 runMax = 12;
 running = false;
+
+//path_start(PathTourFULL, 1, path_action_stop, true);
