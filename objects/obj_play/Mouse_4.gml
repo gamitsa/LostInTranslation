@@ -1,1 +1,3 @@
-room_goto(roomVillage);
+y = ystart + 4;
+
+alarm_set(0, 10);

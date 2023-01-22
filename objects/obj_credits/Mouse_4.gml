@@ -1,1 +1,4 @@
-room_goto(room_credits);
+
+y = ystart + 4; 
+
+alarm_set(0, 10);
