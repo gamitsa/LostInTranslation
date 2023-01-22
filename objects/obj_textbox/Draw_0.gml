@@ -1,15 +1,7 @@
 accept_key = keyboard_check_pressed(vk_space);
 
 textbox_x = camera_get_view_x(view_camera[0]);
-<<<<<<< Updated upstream
 textbox_y = camera_get_view_y(view_camera[0]) + 770;
-=======
-<<<<<<< HEAD
-textbox_y = camera_get_view_y(view_camera[0]) +770;
-=======
-textbox_y = camera_get_view_y(view_camera[0]) + 770;
->>>>>>> 92699fde097a6882f7f7d144483bded853f1495a
->>>>>>> Stashed changes
 
 //Setup
  if setup == false
@@ -242,12 +234,8 @@ if draw_char == text_length[page] && page == page_number - 1
 //draw the text
 for(var c=0; c < draw_char; c++)
 	{
-	depth = -999999;
-	var _text_x = char_x[c, page] + textbox_x;
-	var _text_y = char_y[c, page] + textbox_y - 1540;
-	
-	//the text
-	draw_text(_text_x, _text_y, char[c, page]);
-	///draw_text( char_x[c, page], char_y[c, page], char[c, page] );
+		
+		//the text
+		draw_text( char_x[c, page], char_y[c, page], char[c, page] );
 		
 	}

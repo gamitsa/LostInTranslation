@@ -151,21 +151,9 @@
     {"id":{"name":"roomVillage","path":"rooms/roomVillage/roomVillage.yy",},"order":0,},
   ],
   "Options": [
-<<<<<<< Updated upstream
     {"name":"Windows","path":"options/windows/options_windows.yy",},
     {"name":"operagx","path":"options/operagx/options_operagx.yy",},
     {"name":"Main","path":"options/main/options_main.yy",},
-=======
-<<<<<<< HEAD
-    {"name":"Main","path":"options/main/options_main.yy",},
-    {"name":"Windows","path":"options/windows/options_windows.yy",},
-    {"name":"operagx","path":"options/operagx/options_operagx.yy",},
-=======
-    {"name":"Windows","path":"options/windows/options_windows.yy",},
-    {"name":"operagx","path":"options/operagx/options_operagx.yy",},
-    {"name":"Main","path":"options/main/options_main.yy",},
->>>>>>> 92699fde097a6882f7f7d144483bded853f1495a
->>>>>>> Stashed changes
   ],
   "defaultScriptType": 1,
   "isEcma": false,
