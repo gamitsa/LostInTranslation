@@ -3,7 +3,7 @@ depth = -9999;
 // Textbox parameters
 textbox_width = 900;
 textbox_height = 200;
-border = 20;
+border = 15;
 line_sep = 30;
 
 
