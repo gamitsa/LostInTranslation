@@ -44,7 +44,7 @@ switch(_text_id) {
 		scr_text("I visit her crime scene every day, hoping to get some clarity.", "miss hitomi", -1);
 		scr_text("In fact, I just came from there. *sobs*", "miss hitomi", -1);
 		scr_text("Would you mind leading us there? We would like to see her crime scene, if that's alright with you ma'am.", "main character");
-		scr_text("*sighs* Okay, please follow me...", "miss hitomi", -1);
+		scr_text("*sighs* Okay, please follow me... It's behind the shrine...", "miss hitomi", -1);
 		break;
 	
 	case "school":

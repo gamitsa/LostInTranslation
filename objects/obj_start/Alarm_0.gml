@@ -1,4 +1,4 @@
 x = xstart;
 y = ystart;
 
-room_goto(roomVillage);
+room_goto(room_cutscene);
