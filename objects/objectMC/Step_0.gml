@@ -60,3 +60,32 @@ nearbyNPC = collision_rectangle (x-lookRange,y-lookRange,x+lookRange,y+lookRange
 
 // Depth sorting
 depth =-y;
+
+
+
+
+
+
+	if(direction >= 306 or direction <= 45) 
+		{
+		sprite_index = spriteMCright;
+		image_xscale = 1;
+		}
+
+	if(direction >= 46 and direction <= 135) 
+		{
+		sprite_index = spriteMCup;
+		image_xscale = 1;
+		}
+	
+	if(direction >= 136 and direction <= 225) 
+		{
+		sprite_index = spriteMCleft;
+		image_xscale = 1;
+		}
+		
+	if(direction >= 226 and direction <= 305) 
+		{
+		sprite_index = spriteMCdown;
+		image_xscale = 1;
+		}

@@ -88,6 +88,7 @@
     {"id":{"name":"objectTreeDark","path":"objects/objectTreeDark/objectTreeDark.yy",},"order":11,},
     {"id":{"name":"obj_credits","path":"objects/obj_credits/obj_credits.yy",},"order":2,},
     {"id":{"name":"spriteMCidle_down","path":"sprites/spriteMCidle_down/spriteMCidle_down.yy",},"order":6,},
+    {"id":{"name":"PathTourFULLMC","path":"paths/PathTourFULLMC/PathTourFULLMC.yy",},"order":9,},
     {"id":{"name":"spriteBarn","path":"sprites/spriteBarn/spriteBarn.yy",},"order":16,},
     {"id":{"name":"spriteTree2","path":"sprites/spriteTree2/spriteTree2.yy",},"order":9,},
     {"id":{"name":"spriteRamen","path":"sprites/spriteRamen/spriteRamen.yy",},"order":9,},

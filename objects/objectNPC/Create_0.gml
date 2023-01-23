@@ -1,5 +1,5 @@
 	//Make the object follow the path
-path_start(PathTourFULL, 1, path_action_stop, true);
+path_start(PathTourFULL, 2, path_action_stop, true);
 
 //Check if the object has reached the end of the path
 //if(path_end(objectNPC)){

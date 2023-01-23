@@ -1,5 +1,6 @@
 /// @description Insert description here
 // You can write your code in this editor
+path_start(PathTourFULLMC, 2, path_action_stop, true);
 
 walkSpeed = 4;
 vx = 0;
