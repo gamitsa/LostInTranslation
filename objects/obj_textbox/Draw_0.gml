@@ -71,8 +71,17 @@ textbox_y = camera_get_view_y(view_camera[0]) + 770;
 			{
 			
 			var _char_pos = c+1;
-			var _txtb_x = text_x_offset[p] + border;
-			var _txtb_y = 1540 + border;
+			if room = roomVillage
+				{
+				var _txtb_x = text_x_offset[p] + border;
+				var _txtb_y = 1540 + border;
+				}
+			else if room = roomCrimeSceneTest
+				{
+				var _txtb_x = text_x_offset[p] + border;
+				var _txtb_y = 770 + border;
+				}
+			
 			//get current width of the line
 			var _txt_up_to_char = string_copy( text[p], 1, _char_pos );
 			var _current_txt_w = string_width(_txt_up_to_char) - string_width( char[c, p] );
