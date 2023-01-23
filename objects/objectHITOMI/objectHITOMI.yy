@@ -1,13 +1,13 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "obj_speakblock",
+  "name": "objectHITOMI",
   "spriteId": {
-    "name": "spr_speakblock",
-    "path": "sprites/spr_speakblock/spr_speakblock.yy",
+    "name": "spriteGRANNYidle_left",
+    "path": "sprites/spriteGRANNYidle_left/spriteGRANNYidle_left.yy",
   },
-  "solid": false,
-  "visible": false,
+  "solid": true,
+  "visible": true,
   "managed": true,
   "spriteMaskId": null,
   "persistent": false,
@@ -25,13 +25,13 @@
   "physicsKinematic": false,
   "physicsShapePoints": [],
   "eventList": [
-    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","isDnD":false,"eventNum":0,"eventType":3,"collisionObjectId":null,},
     {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","isDnD":false,"eventNum":0,"eventType":0,"collisionObjectId":null,},
+    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","isDnD":false,"eventNum":0,"eventType":3,"collisionObjectId":null,},
   ],
   "properties": [],
   "overriddenProperties": [],
   "parent": {
-    "name": "Dialogue System",
-    "path": "folders/Dialogue System.yy",
+    "name": "Characters",
+    "path": "folders/Objects/Characters.yy",
   },
 }

@@ -1,17 +1,20 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "obj_speakblock",
+  "name": "objectNPCcrimescene",
   "spriteId": {
-    "name": "spr_speakblock",
-    "path": "sprites/spr_speakblock/spr_speakblock.yy",
+    "name": "spriteNPCidle_down",
+    "path": "sprites/spriteNPCidle_down/spriteNPCidle_down.yy",
   },
   "solid": false,
-  "visible": false,
+  "visible": true,
   "managed": true,
   "spriteMaskId": null,
   "persistent": false,
-  "parentObjectId": null,
+  "parentObjectId": {
+    "name": "objectParNPC",
+    "path": "objects/objectParNPC/objectParNPC.yy",
+  },
   "physicsObject": false,
   "physicsSensor": false,
   "physicsShape": 1,
@@ -25,13 +28,13 @@
   "physicsKinematic": false,
   "physicsShapePoints": [],
   "eventList": [
-    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","isDnD":false,"eventNum":0,"eventType":3,"collisionObjectId":null,},
     {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","isDnD":false,"eventNum":0,"eventType":0,"collisionObjectId":null,},
+    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","isDnD":false,"eventNum":0,"eventType":3,"collisionObjectId":null,},
   ],
   "properties": [],
   "overriddenProperties": [],
   "parent": {
-    "name": "Dialogue System",
-    "path": "folders/Dialogue System.yy",
+    "name": "Characters",
+    "path": "folders/Objects/Characters.yy",
   },
 }
