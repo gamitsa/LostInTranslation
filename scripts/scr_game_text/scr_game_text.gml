@@ -72,6 +72,10 @@ switch(_text_id) {
 
 	case "second marketplace":
 		scr_text("Here you can get the handmade goods for a very convenient price! From socks to sweaters!", "friend", -1);
+		scr_text("Interesting name!", "main character");
+		scr_text("I have never been in a place where nobody speaks English. I think I'm experiencing culture shock!", "main character");
+		scr_text("I hope you will get through it soon!", "friend", -1);
+		scr_text("Thank you!", "main character");
 		break;
 
 
