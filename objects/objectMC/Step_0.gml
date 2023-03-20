@@ -8,6 +8,8 @@
 	moveLeft = keyboard_check(vk_left);
 	moveUp = keyboard_check(vk_up);
 	moveDown = keyboard_check(vk_down);
+	
+	
 /*}
 if (global.playerControl == false) {
 	moveRight = 0;
@@ -65,27 +67,55 @@ depth =-y;
 
 
 
+//#region player sprites and movement
 
-	if(direction >= 306 or direction <= 45) 
-		{
-		sprite_index = spriteMCright;
-		image_xscale = 1;
-		}
-
-	if(direction >= 46 and direction <= 135) 
-		{
-		sprite_index = spriteMCup;
-		image_xscale = 1;
-		}
+//update recording!
+//if (x != xprevious or y != yprevious){
 	
-	if(direction >= 136 and direction <= 225) 
-		{
-		sprite_index = spriteMCleft;
-		image_xscale = 1;
-		}
+//		for(var i = array_size-1; > 0; i--){
+			
+//		pos_x[i] = pos_x[i - 1];
+//		pos_y[i] = pos_y[i - 1];
 		
-	if(direction >= 226 and direction <= 305) 
-		{
-		sprite_index = spriteMCdown;
-		image_xscale = 1;
-		}
+		
+		
+//			}
+//	pos_x[0] = x;
+//	pos_y[0] = y;
+		
+		
+		
+//}
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+//	#endregion
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
